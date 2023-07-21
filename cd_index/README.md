@@ -34,4 +34,4 @@ The CD index is a novel metric proposed in [https://www.nature.com/articles/s415
 - Pandas
 - XGBoost
 - TensorFlow
-- ...
+- (refer to the requirements file for the detailed list of the dependencies)
