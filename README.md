@@ -44,20 +44,21 @@ The repository is organized as follows:
 
 Before running the code for each project, make sure you have the following dependencies installed:
 
-- Python (version X.X.X)
-- Jupyter Notebook (if applicable)
+- Python3
+- Jupyter Notebook
 - Libraries: Pandas, NumPy, Seaborn, Scikit-learn, XGBOOST, MLPRegressor, and others (Refer to `requirements.txt` for a detailed list)
+- There is a parent `requirements.txt` for all the projects, as well as separate ones for each project. Feel free to install the desired `requirements.txt` file or the general one if you want to replicate all the projects.
 
 ## Instructions
 
 To replicate the results or explore the projects:
 
 1. Clone this repository to your local machine using `git clone`.
-2. Navigate to the specific project's directory (e.g., `/Project1`).
-3. Install the necessary dependencies using `pip install -r requirements.txt`.
+2. Navigate to the specific project's directory (e.g., `/cd_index`).
+3. Install the necessary dependencies using `pip install -r requirements1/2/3.txt`.
 4. Open the Jupyter Notebook or Python script corresponding to the project.
 5. Execute the code cells (if applicable) to see the visualizations and analysis.
-6. For Project 3, follow the instructions in the notebook to use the trained models and make predictions on new data.
+6. For `cd_index`, follow the instructions in the notebook to use the trained models and make predictions on new data.
 
 Feel free to explore the datasets and code to gain insights into the applied machine learning concepts and methodologies.
 
