@@ -58,7 +58,7 @@ To replicate the results or explore the projects:
 3. Install the necessary dependencies using `pip install -r requirements1/2/3.txt`.
 4. Open the Jupyter Notebook or Python script corresponding to the project.
 5. Execute the code cells (if applicable) to see the visualizations and analysis.
-6. For Project 3, follow the instructions in the notebook to use the trained models and make predictions on new data.
+6. For `cd_index`, follow the instructions in the notebook to use the trained models and make predictions on new data.
 
 Feel free to explore the datasets and code to gain insights into the applied machine learning concepts and methodologies.
 
