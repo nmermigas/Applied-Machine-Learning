@@ -1,0 +1,16 @@
+adjustText
+cartopy
+cartopy.crs
+cartopy.feature
+cartopy.io.shapereader
+json
+matplotlib.colorbar.ColorbarBase
+matplotlib.pyplot
+metpy.cbook.get_test_data
+metpy.plots.USCOUNTIES
+pandas
+plotly.express
+plotly.figure_factory
+plotnine.*
+seaborn
+urllib.request.urlopen
