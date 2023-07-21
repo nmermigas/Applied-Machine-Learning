@@ -30,7 +30,7 @@ The notebooks are based on two research papers that provide the theoretical back
 - `Q3.ipynb`
 - `Q4.ipynb`
 - `Q5.ipynb`
-- `The data should be downloaded from the link provided above.
+- The data should be downloaded from the link provided above.
 
 ### Dependencies:
 - Seaborn
