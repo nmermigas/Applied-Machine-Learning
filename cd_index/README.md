@@ -20,11 +20,11 @@ The CD index is a novel metric proposed in [https://www.nature.com/articles/s415
    pip install -r requirements3.txt
    ```
 
-2. Open the Jupyter Notebook `cd_index.ipynb` to view the code, data preprocessing, and model training.
+2. Open the Jupyter Notebook `cdindex.ipynb` to view the code, data preprocessing, and model training.
 
 ### Notebooks and Files:
 
-- `cd_index.ipynb`: Jupyter Notebook containing the code for CD index prediction and LDA analysis.
+- `cdindex.ipynb`: Jupyter Notebook containing the code for CD index prediction and LDA analysis.
 - `publications_graph.db`: SQLlite database, which you need to download as described in the data source section, containing the dataset used in the analysis.
 
 ### Dependencies:
