@@ -12,7 +12,7 @@ Project 2 delves into the topic of sport repression, evaluating the level of rep
 
 ## Project 3: Predicting CD Index of Academic Papers
 
-Project 3 is the centerpiece of this repository, focusing on predicting the CD Index of academic papers. Various prediction models, including XGBOOST, Random Forest, Multilayer Perceptron (MLP) Regressor, and a Neural Network, have been employed to achieve this task. Additionally, Latent Dirichlet Allocation (LDA) has been used to analyze the abstracts of the papers and assist in feature engineering.
+Project 3 is the centerpiece of this repository, focusing on predicting the CD Index of academic papers. Various prediction models, including XGBOOST, Random Forest, Multilayer Perceptron Regressor (MLP), and a Neural Network, have been employed to achieve this task. Additionally, Latent Dirichlet Allocation (LDA) has been used to analyze the abstracts of the papers and assist in feature engineering.
 
 ### Techniques and Methods Used:
 
